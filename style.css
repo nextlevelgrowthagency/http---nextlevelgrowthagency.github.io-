@@ -654,6 +654,9 @@ input {
 /* tablet */
 
 @media (max-width: 1200px) {
+  .hero{
+  background-position: initial;
+  }
   #splide01,
   .safe,
   .legal,
