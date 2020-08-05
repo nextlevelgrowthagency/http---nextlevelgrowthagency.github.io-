@@ -27,7 +27,6 @@ a:focus {
   padding-left: 50px;
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 90%);
   z-index: 10;
-  background-attachment: fixed;
   background-position: center;
 }
 .hero h1 {
