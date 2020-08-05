@@ -655,7 +655,7 @@ input {
 
 @media (max-width: 1200px) {
   .hero{
-  background-position: initial;
+  background-attachment: initial;
   }
   #splide01,
   .safe,
